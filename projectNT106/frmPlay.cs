@@ -107,7 +107,7 @@ namespace projectNT106
             DSUser.Add(uname);
         }      
 
-
+        //kkkk 
         private void frmPlay_Load(object sender, EventArgs e)
         {
             //Cập nhật ngay mã id phòng là IDphong
